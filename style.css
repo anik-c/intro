@@ -1,0 +1,24 @@
+*{
+    background: #032030;
+   margin: 0;
+   padding: 0;
+}
+@font-face{
+    font-family: myFont;
+    src:url(earthorbiter.ttf);
+}
+.main h2{
+    color: #97a97c;
+    font-size: 8vh;
+    font-weight: lighter;
+    margin-top: 30vh;
+    padding-left: 90vh;
+
+}
+.main h1{
+    color: #2a9d8f;
+    font-family: myFont;
+    font-size: 15vh;
+    margin-top: 10vh; 
+    padding-left:40vh ;
+}
